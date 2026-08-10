@@ -59,4 +59,4 @@ Twenty years of photography and cinematography sit underneath all of it, which i
 
 ## Now
 
-Rebuilding the same genre with Codex—a different setting with a heavier emphasis on narrative—to find out what changes when the tool changes, and whether a verification approach transfers with it.
+I work across Codex, Claude Code, Midjourney, Higgsfield, and a broader AI creative stack to build software and make films. I combine code, image generation, video, sound, and verification into finished products—not isolated experiments.
